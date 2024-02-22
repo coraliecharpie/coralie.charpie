@@ -1,2 +1,2 @@
 ### Hi :)
-"Practical programming in chemistry is so fun"
+Practical programming in chemistry is so fun
